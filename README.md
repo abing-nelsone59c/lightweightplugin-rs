@@ -1,0 +1,2 @@
+# lightweightplugin-rs
+Python script
